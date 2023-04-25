@@ -41,5 +41,7 @@ The following are some of the areas for future work:
 3. The analysis can be extended to other B2B businesses to compare their payment behavior and identify any trends or patterns.
 
 [Jupyter File](https://github.com/malhmana/Ecomm_case_study/blob/f0a77f1c8cf3a6caeb84efa9331bc89b443afa03/Upgrad%20Case%20Study%2025_04_2023_v2.ipynb)
+
+
 [Presentation](https://github.com/malhmana/Ecomm_case_study/blob/f0a77f1c8cf3a6caeb84efa9331bc89b443afa03/E-commerce%20&%20retail%20B2B%20Case%20Study.pdf)
 
